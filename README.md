@@ -12,7 +12,7 @@ The final result should look like this:
 Fork & clone this repo, it will help you with the basic scaffolding. Using the terminal, navigate to the folder on your machine where you usually keep your repos and type this.
 
 ```
-git clone https://github.com/SybilVane/todo-app-vue-vite.git
+git clone https://github.com/hosseinnourian/vue-todo-app-vite.git
 
 cd todo-app-vue-vite
 
